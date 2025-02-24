@@ -14,6 +14,12 @@ Before you begin, ensure you have the following installed:
 - For Windows: Download from [Go Official Website](https://go.dev/dl/)
 - Verify installation: `go version`
 
+## Installation through docker 
+docker build -t mosint .
+docker run mosint example@example.com
+
+
+
 ## Installation
 
 1. Clone the repository:
